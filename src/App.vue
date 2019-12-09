@@ -18,7 +18,7 @@ export default {
       todos: [{
         title: 'Todo A',
         project: 'Project A',
-        done: false
+        done: true
       }, {
         title: 'Todo B',
         project: 'Project B',
